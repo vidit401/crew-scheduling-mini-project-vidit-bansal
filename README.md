@@ -4,7 +4,7 @@
 **Roll no. -**  2401420018\
 **Course Batch:** B.Tech CSE (Data Science) IBM, 2024-2028\
 **Semester:** 4\
-**Course/Assignment:** ADA Lab Assignment 2
+**Course/Assignment:** ADA Lab Assignment 4
 
 ## Overview
 This repository contains implementations of NP-hard problem-solving strategies using Backtracking and Branch & Bound for Airline Crew Scheduling. It also includes an experimental analysis of String Matching algorithms (Naive vs KMP) simulating search engine methodologies.
